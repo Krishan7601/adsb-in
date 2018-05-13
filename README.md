@@ -13,6 +13,6 @@ Pull latest version of all submodules:
   `git pull --recurse-submodules`  
 ### Installation
 ### Development
-Run app in development mode:
+Run app in development mode:  
   `DEBUG=display-data:* npm run devstart`
 ### Execution
