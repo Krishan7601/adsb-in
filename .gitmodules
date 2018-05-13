@@ -1,3 +1,6 @@
 [submodule "dump1090"]
 	path = dump1090
 	url = https://github.com/Krishan7601/dump1090
+[submodule "display-data"]
+	path = display-data
+	url = https://github.com/Krishan7601/display-data.git
