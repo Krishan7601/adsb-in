@@ -9,4 +9,6 @@ https://github.com/Krishan7601/adsb-in/wiki
 ### Download
 ### Installation
 ### Execution
-
+### Development
+Run app in development mode:
+`DEBUG=display-data:* npm run devstart`
