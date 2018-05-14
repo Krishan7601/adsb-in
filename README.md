@@ -12,7 +12,9 @@ Clone repository:
 Pull latest version of all submodules:  
   `git pull --recurse-submodules`  
 ### Installation
-### Development
+### Node App Development
 Run app in development mode:  
   `DEBUG=display-data:* npm run devstart`
+Execute unit tests:
+  `npm test`
 ### Execution
