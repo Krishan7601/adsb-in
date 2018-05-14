@@ -8,13 +8,13 @@ https://github.com/Krishan7601/adsb-in/wiki
 ### Hardware Setup
 ### Download
 Clone repository:  
-  `git clone https://github.com/Krishan7601/adsb-in.git`  
+`git clone https://github.com/Krishan7601/adsb-in.git`  
 Pull latest version of all submodules:  
-  `git pull --recurse-submodules`  
+`git pull --recurse-submodules`  
 ### Installation
 ### Node App Development
 Run app in development mode:  
-  `DEBUG=display-data:* npm run devstart`  
+`DEBUG=display-data:* npm run devstart`  
 Execute unit tests:  
-  `npm test`  
+`npm test`  
 ### Execution
